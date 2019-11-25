@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="mainActivityNameEditTextHint">Please input your name here.</string>
+    <string name="mainActivityToppingTextView">Topping</string>
+    <string name="mainActivityQuantityTextView">Quantity</string>
+    <string name="mainActivityWhippedCreamTextView">Whipped Cream</string>
+    <string name="mainActivityChocolateTextView">Chocolate</string>
+    <string name="mainActivityDecButton">-</string>
+    <string name="mainActivityQuantityNumTextView">0</string>
+    <string name="mainActivityIncButton">+</string>
+    <string name="mainActivityOrderSummaryTextView">Order Summary</string>
+    <string name="mainActivityOrderButton">ORDER</string>
+</resources>
